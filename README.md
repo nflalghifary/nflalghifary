@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @nflalghifary
 - 👀 I’m interested in Front-End Developing and Design Graphics
-- 🌱 I’m currently learning Object Oriented Programming with Android Studio
-- 💞️ I’m looking to collaborate on (later project)
-- 📫 How to reach me: naufalalghifaryid@gmail.com
+- 🌱 I’m currently learning Web Front-End Framework
+- 📫 Reach me on naufalalghifaryid@gmail.com
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nflalghifary)](https://github.com/nflalghifary/github-readme-stats)
 
 <!---
 nflalghifary/nflalghifary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
