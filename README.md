@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nflalghifary
-- 👀 I’m interested in Front-End Developing and Design Graphics
+- 👀 I’m interested in Front-End Developing and Visual Design
 - 🌱 I’m currently learning Web Front-End Framework
 - 📫 Reach me on [naufalalghifaryid@gmail.com](mailto:naufalalghifaryid@gmail.com?subject=[GitHub]%20) or [LinkedIn](https://www.linkedin.com/in/nflalghifary/)
 
